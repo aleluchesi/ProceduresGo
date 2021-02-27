@@ -5,11 +5,8 @@ import (
 	"time"
 )
 
-// Funcion for write consele
-
+// Writeconsole is write mensage in the console
 func Writeconsole(sTipo, sProcesso, sMsg string) {
-
-	// Funcion for write consele
 
 	var sModo string
 
